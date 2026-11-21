@@ -1,0 +1,15 @@
+CLAUDE.md
+**/CLAUDE.md
+.DS_Store
+**/.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.foxpit/
+.claude/
+.kiro/
+.vscode/
+__pycache__/
+build/
